@@ -10,16 +10,16 @@ permalink: /location/
 <header>
   
  <h4>Lodging</h4>
- <p>Nevada City</p>
+ <h5>Nevada City</h5>
  </header>
  <p><a href="https://nevadacityinn.net/">Nevada City Inn</a>
  <p><a href="https://northernqueeninn.com//">Northern Queen Inn</a>
    
- <p>Grass Valley</p>
+ <h5>Grass Valley</h5>
  </header>
  
  
- <p>Auburn</p>
+ <h5>Auburn</h5>
  </header>
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
