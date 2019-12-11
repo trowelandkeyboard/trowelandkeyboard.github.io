@@ -12,7 +12,7 @@ permalink: /location/
  <h4>Lodging</h4>
  <p>Nevada City</p>
  </header>
- <p><a href="#">https://nevadacityinn.net/</a>
+ <p><a href="Nevada City Inn">https://nevadacityinn.net/</a>
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
