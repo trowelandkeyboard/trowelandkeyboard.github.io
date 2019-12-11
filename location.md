@@ -10,8 +10,6 @@ permalink: /location/
 <hr />
 <header>
  <h4>Lodging</h4>
-  <div class="row">
-   <div class="6u 12u$(medium)">
     <h5>Nevada City</h5>
     <li><a href="https://nevadacityinn.net/">Nevada City Inn</a>: Simple rooms & basic cabins at a relaxed hotel in park grounds, plus BBQs & fre WiFi</li>
     <li><a href="https://northernqueeninn.com/">Northern Queen Inn</a>: Simple, rustic hotel with casual rooms, old-school cabins & 2-story chalets, plus a seasonal pool</li>
