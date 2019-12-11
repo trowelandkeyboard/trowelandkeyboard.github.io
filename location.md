@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Location
+subtitle: Test
 permalink: /location/
 ---
 
