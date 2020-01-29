@@ -11,7 +11,7 @@ permalink: /location/
 <hr />
 <header>
  <h2>Lodging</h2>
- <h3>Please use google maps to check to see how long of a drive it is from any lodging you seek.  Nevada City's roads are winding, so the illustrated distance when looking at a map may not be the same as the actual drive time.</h3>
+ <h4>Please use google maps to check to see how long of a drive it is from any lodging you seek.  Nevada City's roads are winding, so the illustrated distance when looking at a map may not be the same as the actual drive time.</h4>
     <h5>Nevada City</h5>
     <li><a href="https://nevadacityinn.net/">Nevada City Inn</a>: Simple rooms & basic cabins at a relaxed hotel in park grounds, plus BBQs & fre WiFi. Rates: $93/night.</li>
     <li><a href="https://northernqueeninn.com/">Northern Queen Inn</a>: Simple, rustic hotel with casual rooms, old-school cabins & 2-story chalets, plus a seasonal pool. Rates: $141/night.</li>
