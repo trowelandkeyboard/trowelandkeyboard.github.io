@@ -5,7 +5,7 @@ permalink: /rsvp/
 ---
 <style>
 .responsive-wrap iframe{ max-width: 100%;
-                         max-length: 100%;
+                         max-length: auto;
                          display: table;
                          margin: 0 auto;
   }
