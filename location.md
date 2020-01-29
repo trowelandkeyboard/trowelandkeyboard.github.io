@@ -14,11 +14,10 @@ permalink: /location/
     <h5>Nevada City</h5>
     <li><a href="https://nevadacityinn.net/">Nevada City Inn</a>: Simple rooms & basic cabins at a relaxed hotel in park grounds, plus BBQs & fre WiFi. Rates: $93/night.</li>
     <li><a href="https://northernqueeninn.com/">Northern Queen Inn</a>: Simple, rustic hotel with casual rooms, old-school cabins & 2-story chalets, plus a seasonal pool. Rates: $141/night.</li>
-    <li><a href="https://outsideinn.com/">Outside Inn</a>: Nature-themed rooms, suites & cottages, plus a seasonal outdoor pool, BBQs & patio with fire pit. Rates: $130/night</li>
-<br>   
+    <li><a href="https://outsideinn.com/">Outside Inn</a>: Nature-themed rooms, suites & cottages, plus a seasonal outdoor pool, BBQs & patio with fire pit. Rates: $130/night</li>   
     <h5>Grass Valley</h5>
     <li><a href="http://sierramountaininn.com/">Sierra Mountain Inn</a>: Relaxed 1930s property offering airy accomadations, some with kitchens, plus a garden & free Wi-Fi. Rates: $125/night.</li>
-    <li><a href="https://www.choicehotels.com/california/grass-valley/ascend-hotels/cae68?source=gyxt">Gold Miners Inn</a> Warm rooms & suites in a relaxed hotel offeringcomplimentary breakfast & cocktail receptions. Rates: $175/nigh</li>
+    <li><a href="https://www.choicehotels.com/california/grass-valley/ascend-hotels/cae68?source=gyxt">Gold Miners Inn</a> Warm rooms & suites in a relaxed hotel offering complimentary breakfast & cocktail receptions. Rates: $175/nigh</li>
     <li><a href="http://www.gvcourtyardsuites.com/">Grass Valley Courtyard Suites</a>: Relaxed hotel offering a seasonal outdoor pool, a spa & a gym, plus free breakfast & parking. Rates: $170/night.</li>
     <li><a href="https://www.bestwestern.com/en_US/book/hotels-in-grass-valley/best-western-gold-country-inn/propertyCode.05353.html">Best Western Gold Country Inn</a>: Straightforward hotel offering free Wi-Fi, breakfast & parking, plus an outdoor pool & a gym. Rates: $156/night.</li>
 
