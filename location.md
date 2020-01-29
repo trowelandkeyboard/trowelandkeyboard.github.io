@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Location
-subtitle: 16605 Pasquale Rd. Nevada City, CA 95959
+subtitle: Please use google maps to check to see how long of a drive it is from any lodging you seek.  Nevada City's roads are winding, so the illustrated distance when looking at a map may not be the same as the actual drive time.
 permalink: /location/
 ---
 
