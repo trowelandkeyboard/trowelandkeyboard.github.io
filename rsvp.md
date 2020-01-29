@@ -4,7 +4,9 @@ title: RSVP
 permalink: /rsvp/
 ---
 <style>
-.responsive-wrap iframe{ max-width: 100%;}
+.responsive-wrap iframe{ max-width: 100%;
+                         max-lenth: 100%;
+  }
 </style>
 <div class="responsive-wrap">
 <!-- this is the embed code provided by Google -->
