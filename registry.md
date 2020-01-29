@@ -4,7 +4,7 @@ title: Registry
 permalink: /registry/
 ---
 ## Honeymoon
-What we really want is help with embarking on the honeymoon of our dreams. Since Nick has been doing contract with for so long, we finally have the time to travel. So here are some ways you can help us with out journey!
+What we really want is help with embarking on the honeymoon of our dreams. Since Nick has been doing contract work for so long, we finally have the time to travel. So here are some ways you can help us with out journey!
 
 * Place holder
 * Place holder
