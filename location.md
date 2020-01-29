@@ -7,6 +7,7 @@ permalink: /location/
 
 <h4>Thank you to Kathy Griffin to agreeing to host our <b>Big Day</b>.</h4>
 <p><a href="https://www.google.com/maps/place/16605+Pasquale+Rd,+Nevada+City,+CA+95959/@39.26251,-120.9135687,17z/data=!3m1!4b1!4m5!3m4!1s0x809b77c4726816c5:0x2e969181be851be5!8m2!3d39.26251!4d-120.91138">16605 Pasquale Rd. Nevada City, CA 95959</a></p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3089.1347110392376!2d-120.91356868423331!3d39.26250997951591!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x809b77c4726816c5%3A0x2e969181be851be5!2s16605%20Pasquale%20Rd%2C%20Nevada%20City%2C%20CA%2095959!5e0!3m2!1sen!2sus!4v1580262466699!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 <hr />
 <header>
  <h4>Lodging</h4>
